@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file source-language="en" datatype="plaintext" original="LocalizationExample/Base.lproj/Main.storyboard" target-language="de">
+        <header>
+      <tool tool-version="9.3" build-num="9E145" tool-name="Xcode" tool-id="com.apple.dt.xcode"/>
+    </header>
+    <body>
+      <trans-unit id="00b-gc-hQG.text">
+        <source>Orange</source>
+        <target>Orange</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Orange&quot;; ObjectID = &quot;00b-gc-hQG&quot;;</note>
+      </trans-unit>
+      <trans-unit id="iId-J2-pTC.text">
+        <source>Ananas</source>
+        <target>Ananas</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Ananas&quot;; ObjectID = &quot;iId-J2-pTC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="loA-Hs-dyC.text">
+        <source>Label</source>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Label&quot;; ObjectID = &quot;loA-Hs-dyC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="p7I-xp-fC7.text">
+        <source>Banana</source>
+        <target>Banane</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Banana&quot;; ObjectID = &quot;p7I-xp-fC7&quot;;</note>
+      </trans-unit>
+      <trans-unit id="vl7-na-NSt.text">
+        <source>Apple</source>
+        <target>Apple</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Apple&quot;; ObjectID = &quot;vl7-na-NSt&quot;;</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file source-language="en" datatype="plaintext" original="LocalizationExample/en.lproj/InfoPlist.strings" target-language="de">
+        <header>
+      <tool tool-version="9.3" build-num="9E145" tool-name="Xcode" tool-id="com.apple.dt.xcode"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file source-language="en" datatype="plaintext" original="LocalizationExample/en.lproj/Localizable.strings" target-language="de">
+        <header>
+      <tool tool-version="9.3" build-num="9E145" tool-name="Xcode" tool-id="com.apple.dt.xcode"/>
+    </header>
+    <body>
+      <trans-unit id="Cherry">
+        <source>Cherry</source>
+        <target>Kirsche</target>
+        <note>Cherry</note>
+      </trans-unit>
+      <trans-unit id="Plum">
+        <source>Plum</source>
+        <target>Pflaume</target>
+        <note>Plum</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
